@@ -1,0 +1,4 @@
+year,data_note,members,medical_member_years,inpatient_pmpy,outpatient_pmpy,physician_pmpy,medical_pmpy,drug_pmpy
+2008,Jan-Feb under-captured,83196,78172.0,2535.0,733.0,984.0,4252.0,1858.0
+2009,complete,76715,74658.0,2343.0,848.0,1067.0,4258.0,1479.0
+2010,claims trail off; not usable,72713,68395.0,1320.0,488.0,698.0,2506.0,874.0

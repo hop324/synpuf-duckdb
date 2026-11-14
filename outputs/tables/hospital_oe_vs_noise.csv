@@ -1,0 +1,3 @@
+version,oe_p10,oe_p90,p90_minus_p10
+actual hospitals,0.85,1.17,0.32
+shuffled (mean of 20),0.86,1.153,0.293

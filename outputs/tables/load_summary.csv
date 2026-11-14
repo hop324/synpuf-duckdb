@@ -1,0 +1,6 @@
+table_name,n_rows
+bene (member-years),343858
+carrier (claims),4745914
+ip (claims),66434
+op (claims),781361
+rx (fills),5561154
